@@ -1,0 +1,7 @@
+V9 GITHUB UPLOAD
+1. Replace your existing index.html with this V9 index.html.
+2. Replace cdp-poster.png.
+3. Replace SeelaVeerraju.ttf.
+4. No assets folder is required. The Poleramma line-art image is embedded inside index.html.
+5. Wait 1-2 minutes, then hard refresh (Ctrl+Shift+R).
+6. The first scene should visibly draw the Poleramma artwork before the existing V8/VVIP launch sequence.
